@@ -184,7 +184,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[3] = (0.025, 0.025, 0.2)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[3].pose.position.x = 0.8525
     collision_objects[3].pose.position.y = 0.1375
     collision_objects[3].pose.position.z = 0.1
@@ -194,7 +194,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[4] = (0.025, 0.025, 0.2)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ## ##
     collision_objects[4].pose.position.x = 0.8525
     collision_objects[4].pose.position.y = - 0.1375
     collision_objects[4].pose.position.z = 0.1
@@ -204,7 +204,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[5] = (0.025, 0.025, 0.2)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[5].pose.position.x = 0.5765
     collision_objects[5].pose.position.y = 0.1375
     collision_objects[5].pose.position.z = 0.1
@@ -215,7 +215,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[6] = (0.025, 0.025, 0.2)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[6].pose.position.x = 0.5765
     collision_objects[6].pose.position.y = - 0.1375
     collision_objects[6].pose.position.z = 0.1
@@ -225,7 +225,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[7] = (0.025, 0.3, 0.025)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[7].pose.position.x = 0.5765
     collision_objects[7].pose.position.y = 0
     collision_objects[7].pose.position.z = 0.1875
@@ -235,7 +235,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[8] = (0.3, 0.025, 0.025)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[8].pose.position.x = 0.715
     collision_objects[8].pose.position.y = -0.1375
     collision_objects[8].pose.position.z = 0.1875
@@ -245,7 +245,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[9] = (0.3, 0.025, 0.025)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[9].pose.position.x = 0.715
     collision_objects[9].pose.position.y = 0.1375
     collision_objects[9].pose.position.z = 0.1875
@@ -255,7 +255,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[10] = (0.025, 0.3, 0.025)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[10].pose.position.x = 0.8525
     collision_objects[10].pose.position.y = 0
     collision_objects[10].pose.position.z = 0.1875
@@ -265,7 +265,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[11] = (0.3, 0.15, 0.01)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[11].pose.position.x = 0.715
     collision_objects[11].pose.position.y = 0.2
     collision_objects[11].pose.position.z = 0.205
@@ -275,7 +275,7 @@ def addCollisionObjects(planning_scene_interface):
 
     collision_object_sizes[12] = (0.3, 0.15, 0.01)  # размеры обьекта
 
-    ## Разположение обьекта перемещения ##
+    ##  ##
     collision_objects[12].pose.position.x = 0.715
     collision_objects[12].pose.position.y = -0.2
     collision_objects[12].pose.position.z = 0.205
